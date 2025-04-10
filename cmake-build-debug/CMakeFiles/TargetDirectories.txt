@@ -1,0 +1,3 @@
+/home/Claudiu/CLionProjects/treasure-manager/cmake-build-debug/CMakeFiles/treasure_manager.dir
+/home/Claudiu/CLionProjects/treasure-manager/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/Claudiu/CLionProjects/treasure-manager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
